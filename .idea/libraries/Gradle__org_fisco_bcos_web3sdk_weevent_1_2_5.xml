@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.fisco-bcos:web3sdk-weevent:1.2.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fisco-bcos/web3sdk-weevent/1.2.5/166d0828cd5870c526eb542b4ea40ff3aa912bd9/web3sdk-weevent-1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fisco-bcos/web3sdk-weevent/1.2.5/160664c38f8402b8e670f21d49470d000dee0301/web3sdk-weevent-1.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

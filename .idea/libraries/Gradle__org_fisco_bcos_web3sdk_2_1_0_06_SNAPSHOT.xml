@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.fisco-bcos:web3sdk:2.1.0.06-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fisco-bcos/web3sdk/2.1.0.06-SNAPSHOT/b3a957473ab9458982d79c186f280d0c8491a6cf/web3sdk-2.1.0.06-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fisco-bcos/web3sdk/2.1.0.06-SNAPSHOT/e786b43e0f39de5a792388796d77ee0506a91c90/web3sdk-2.1.0.06-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

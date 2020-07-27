@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.webank.weevent:weevent-client:1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.webank.weevent/weevent-client/1.0.0/950765c6fc6e5b816df4748b9a5a18f9d2f1ec2d/weevent-client-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.webank.weevent/weevent-client/1.0.0/28b633764f05b922c14a26671f24379babb9dee3/weevent-client-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
